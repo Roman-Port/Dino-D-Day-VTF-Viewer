@@ -1,0 +1,5 @@
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\RemoveViewer\bin\Debug\RemoveViewer.exe
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\RemoveViewer\bin\Debug\RemoveViewer.pdb
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\RemoveViewer\obj\Debug\RemoveViewer.csproj.CoreCompileInputs.cache
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\RemoveViewer\obj\Debug\RemoveViewer.exe
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\RemoveViewer\obj\Debug\RemoveViewer.pdb

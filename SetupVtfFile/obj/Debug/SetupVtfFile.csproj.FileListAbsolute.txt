@@ -1,0 +1,8 @@
+c:\users\roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\bin\Debug\SetupVtfFile.exe
+c:\users\roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\bin\Debug\SetupVtfFile.pdb
+c:\users\roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\obj\Debug\SetupVtfFile.Properties.Resources.resources
+c:\users\roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\obj\Debug\SetupVtfFile.csproj.GenerateResource.cache
+c:\users\roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\obj\Debug\SetupVtfFile.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\obj\Debug\SetupVtfFile.exe
+c:\users\roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\obj\Debug\SetupVtfFile.pdb
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\SetupVtfFile\obj\Debug\SetupVtfFile.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\DinoDDayVtfEditor.exe
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\DinoDDayVtfEditor.pdb
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.csprojAssemblyReference.cache
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.Properties.Resources.resources
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.csproj.GenerateResource.cache
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.exe
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.pdb
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\DinoDDayVtfEditor.exe.manifest
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\DinoDDayVtfEditor.application
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.exe.manifest
+c:\users\roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\obj\Debug\DinoDDayVtfEditor.application
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\VtfEdit\DevIL.dll
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\VtfEdit\HLLib.dll
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\VtfEdit\VTFCmd.exe
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\VtfEdit\VTFEdit.exe
+c:\Users\Roman\source\repos\DinoDDayVtfEditor\DinoDDayVtfEditor\bin\Debug\VtfEdit\VTFLib.dll

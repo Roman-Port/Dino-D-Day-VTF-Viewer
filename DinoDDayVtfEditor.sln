@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoDDayVtfEditor", "DinoDDayVtfEditor\DinoDDayVtfEditor.csproj", "{E09DB734-2192-4AD4-B9FB-CFF230D44B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetupVtfFile", "SetupVtfFile\SetupVtfFile.csproj", "{ECFFAC9D-07AB-4EA4-95EB-B45B0C8EB407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveViewer", "RemoveViewer\RemoveViewer.csproj", "{907D1190-50D8-41DD-9EF4-DD5F8ABE427E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09DB734-2192-4AD4-B9FB-CFF230D44B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09DB734-2192-4AD4-B9FB-CFF230D44B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09DB734-2192-4AD4-B9FB-CFF230D44B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09DB734-2192-4AD4-B9FB-CFF230D44B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFFAC9D-07AB-4EA4-95EB-B45B0C8EB407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFFAC9D-07AB-4EA4-95EB-B45B0C8EB407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFFAC9D-07AB-4EA4-95EB-B45B0C8EB407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFFAC9D-07AB-4EA4-95EB-B45B0C8EB407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907D1190-50D8-41DD-9EF4-DD5F8ABE427E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907D1190-50D8-41DD-9EF4-DD5F8ABE427E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907D1190-50D8-41DD-9EF4-DD5F8ABE427E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907D1190-50D8-41DD-9EF4-DD5F8ABE427E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12214EA2-B30F-4E85-A269-630CBC294F99}
+	EndGlobalSection
+EndGlobal
